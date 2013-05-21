@@ -3,6 +3,8 @@ Sublime Text Setup
 
 A list of all my Sublime Text packages, preferences, and other stuff related to my daily toolkit.
 
+![Sublime Text 2 screenshot](https://raw.github.com/dannynimmo/sublime-text/master/screenshot.png)
+
 Theme, Colour Scheme, & Font
 ----------------------------
 
