@@ -18,7 +18,6 @@ Packages
 * [Alignment](https://github.com/wbond/sublime_alignment) - Align cursors for code formatting
 * [AutoFileName](https://github.com/BoundInCode/AutoFileName) - Auto completes filenames (e.g. in `src` attributes or css `url()` declarations)
 * [Emmet](https://github.com/sergeche/emmet-sublime) - Ultra quick html generation
-* [Inc-Dec-Value](https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value) - Bump up/down numbers quickly
 * [Insert Nums](https://bitbucket.org/markstahler/insert-nums) - Insert increasing numbers at each cursor
 * [SelectUntil](https://github.com/xavi-/sublime-selectuntil) - Each cursor select until specified string
 * [SFTP](http://wbond.net/sublime_packages/sftp) - Download/upload via SFTP
