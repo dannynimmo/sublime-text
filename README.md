@@ -62,20 +62,8 @@ Preferences
     // Most files these days are UTF-8
     "fallback_encoding": "UTF-8",
 
-    // Ignore rubbish OSX files
-    "file_exclude_patterns":
-    [
-        ".DS_Store"
-    ],
-
     // I don't use code folding
     "fold_buttons": false,
-
-    // Ignore SVN directories
-    "folder_exclude_patterns":
-    [
-        ".svn"
-    ],
 
     // Beautiful fixed width font, available here: http://www.levien.com/type/myfonts/inconsolata.html
     "font_face": "Inconsolata",
